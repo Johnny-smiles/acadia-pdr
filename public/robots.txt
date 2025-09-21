@@ -1,5 +1,4 @@
-
 User-agent: *
 Allow: /
 
-Sitemap: https://minnesotahandy.netlify.app/sitemap.xml
+Sitemap: https://www.acadiapdr.com/sitemap.xml
