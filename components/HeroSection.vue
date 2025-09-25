@@ -28,11 +28,15 @@
                 Acadia PDR • Lakeland, MN
             </p>
 
-            <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight">
+            <!-- Enhanced contrast: full white + stronger drop-shadow -->
+            <h1
+                class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight text-white drop-shadow-lg"
+            >
                 Paintless Dent Repair — Fast, Clean, and Mobile
             </h1>
 
-            <p class="mt-3 sm:mt-4 text-base sm:text-lg text-white/90">
+            <!-- Enhanced contrast: full white + subtle drop-shadow -->
+            <p class="mt-3 sm:mt-4 text-base sm:text-lg text-white drop-shadow-md">
                 Hail, dings, door dents, and creases removed without repainting. We come to you, or drop off in Lakeland.
             </p>
 
