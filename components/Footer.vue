@@ -3,9 +3,7 @@
         <div class="max-w-7xl mx-auto grid gap-10 px-6 md:grid-cols-3 lg:grid-cols-4 justify-items-center text-center">
             <!-- Brand -->
             <div class="w-full text-center md:text-left justify-self-center">
-                <div class="w-16 h-16 rounded bg-brand-gradient grid place-items-center text-white font-bold mx-auto md:mx-0">
-                    A
-                </div>
+                <img src="/Logo.JPG" alt="Acadia PDR Logo" class="w-16 h-16 rounded object-cover mx-auto md:mx-0" />
                 <p class="mt-4 font-semibold">{{ brandName }}</p>
                 <p class="mt-1">
                     <a :href="`tel:${phoneE164}`" class="underline">{{ phoneDisplay }}</a>

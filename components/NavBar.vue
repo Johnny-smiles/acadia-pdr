@@ -4,7 +4,7 @@
         <div class="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
             <!-- Logo (no image file needed) -->
             <NuxtLink to="/" class="flex items-center gap-3">
-                <span class="w-10 h-10 rounded bg-brand-gradient grid place-items-center text-white font-bold">A</span>
+                <img src="/Logo.JPG" alt="Acadia PDR Logo" class="w-10 h-10 rounded object-cover" />
                 <span class="font-semibold">Acadia PDR</span>
             </NuxtLink>
 

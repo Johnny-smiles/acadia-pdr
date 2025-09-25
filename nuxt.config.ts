@@ -34,7 +34,7 @@ export default defineNuxtConfig({
                 /* Open Graph */
                 { property: 'og:title',       content: 'Acadia PDR — Paintless Dent Repair & Detailing in Lakeland, MN' },
                 { property: 'og:description', content: 'Fast, high-quality PDR, hail repair, and detailing in Lakeland, MN.' },
-                { property: 'og:image',       content: 'https://www.acadiapdr.com/og-image.jpg' },
+                { property: 'og:image',       content: 'https://www.acadiapdr.com/Logo.JPG' },
                 { property: 'og:url',         content: 'https://www.acadiapdr.com' },
                 { property: 'og:type',        content: 'website' },
 
@@ -42,7 +42,7 @@ export default defineNuxtConfig({
                 { name: 'twitter:card',        content: 'summary_large_image' },
                 { name: 'twitter:title',       content: 'Acadia PDR — Paintless Dent Repair & Detailing in Lakeland, MN' },
                 { name: 'twitter:description', content: 'Fast, high-quality PDR, hail repair, and detailing in Lakeland, MN.' },
-                { name: 'twitter:image',       content: 'https://www.acadiapdr.com/og-image.jpg' }
+                { name: 'twitter:image',       content: 'https://www.acadiapdr.com/Logo.JPG' }
             ],
             link: [
                 { rel: 'canonical', href: 'https://www.acadiapdr.com' },
